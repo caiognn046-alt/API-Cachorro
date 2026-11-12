@@ -1,9 +1,12 @@
 *{
     box-sizing: border-box;
    justify-content: center;
-background-color: antiquewhite;
+    
 }
-
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
 
 img{
  width: 300px;
@@ -20,9 +23,7 @@ label{
     justify-content: center;
     align-items: center;
 }
-body{
-    text-align: center;
-}
+
 button{
     padding: 10px;
     border-radius: 10px;
@@ -31,10 +32,11 @@ button{
 select{
     padding: 10px;
     border-radius: 10px;
-    background-color: burlywood
+    background-color: burlywood;
+    
 }
 input{
     padding: 10px;
     border-radius: 10px;
-    background-color: burlywood
+    background-color: burlywood;
 }
